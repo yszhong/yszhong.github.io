@@ -1,14 +1,12 @@
 # Created by Jekyll Writer
 title: Yunsong Zhong's Blog
-author: Jekyll Writer
-description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
+author: Yunsong Zhong
+description: Yunsong Zhong's Personal Blog
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
 twitter_username: jekyllwriter
-github_username: jekyllwriter
+github_username: yszhong
 gems:
   - jekyll-paginate
 markdown: kramdown
