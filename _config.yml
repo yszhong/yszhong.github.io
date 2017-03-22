@@ -2,8 +2,7 @@
 title: Yunsong Zhong's Blog
 author: Yunsong Zhong
 description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
+  This is my blog. 
 baseurl: ''
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
