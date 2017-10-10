@@ -39,13 +39,13 @@ author:
     - name: instagram
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/yunsongzhong/
     - name: stackoverflow
-      url:
+      url: https://stackoverflow.com/users/8752393/yschung/
     - name: twitter
-      url: 
+      url:
     - name: vk
-      url: https://vk.com/yschung
+      url: https://vk.com/yschung/
 home:
   section1: <h1>YunSong Zhong</h1>
   section2: <h2>This is a personal blog.</h2>
