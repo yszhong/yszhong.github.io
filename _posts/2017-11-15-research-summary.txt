@@ -8,8 +8,6 @@ redirect_from:
   - /2017/11/15/
 ---
 
-> This is [kramdown][kramdown] formatting test page for [Simple Texture][Simple Texture] theme.
-
 * Kramdown table of contents
 {:toc .toc}
 
@@ -55,6 +53,3 @@ We submitted a paper in this topic[^1], and Our codes can be seen [here](https:/
 [^1]: Y. Zhong, Q. Zhao, W. Rao, Predicting stock market indexes with world news, *International Conference on Systems and Informatics*, 2017
 
 [^2]: Shi Y., Wang S., Zhao Q., Li J. (2017) A Hybrid Approach of HTTP Anomaly Detection. In: Song S., Renz M., Moon YS. (eds) Web and Big Data. APWeb-WAIM 2017. Lecture Notes in Computer Science, vol 10612. Springer, Cham
-
-[kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture
