@@ -3,7 +3,7 @@ layout: post
 title: "Summary of Researches in Tongji"
 description: "Summary of Researches in Tongji"
 categories: [research]
-tags: [research, data_mining, data_fusion, clustering, LDA]
+tags: [research, data_mining]
 redirect_from:
   - /2017/11/15/
 ---
