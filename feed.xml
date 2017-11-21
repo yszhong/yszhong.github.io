@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+	<channel>
+		<title>Yunsong Zhong's Blog</title>
+		<link>https://yszhong.github.io/</link>
+		<description>blog home page</description>
+		
+		<item>
+			<title>Summary of Researches in Tongji</title>
+			<link>https://yszhong.github.io/blog/2017/11/15/research-summary/</link>
+			<description>master life</description>
+		</item>
+	</channel>
+</rss>
