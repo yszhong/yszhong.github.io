@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Summary of Researches in Tongji"
-description: "Summary of Researches in Tongji"
+title: "Summary of Researches on iData Lab"
+description: "researches in Tongji University"
 categories: [research]
 tags: [research, data_mining]
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
-This is a summary of my researches during master life in School of Software Engineering, Tonji University.
+This is a summary of my researches during master life in iData Laboratory, School of Software Engineering, Tongji University.
 
 # Network Traffic Anomaly Detection
 
