@@ -54,6 +54,6 @@ The result is shown below.
 
 We submitted a paper in this topic[^1], and Our codes can be seen [here](https://github.com/yszhong/SeriesTopic "code"). My graduate paper is also about this. 
 
-[^1]: Yunsong Zhong, Qinpei Zhao, Weixiong Rao, Predicting stock market indexes with world news, *International Conference on Systems and Informatics*, 2017
+[^1]: Y. Zhong, Q. Zhao and W. Rao, "Predicting stock market indexes with world news," 2017 4th International Conference on Systems and Informatics (ICSAI), Hangzhou, China, 2017, pp. 1535-1540. doi: 10.1109/ICSAI.2017.8248528
 
 [^2]: Shi Y., Wang S., Zhao Q., Li J. (2017) A Hybrid Approach of HTTP Anomaly Detection. In: Song S., Renz M., Moon YS. (eds) Web and Big Data. APWeb-WAIM 2017. Lecture Notes in Computer Science, vol 10612. Springer, Cham
